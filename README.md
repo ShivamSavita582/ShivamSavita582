@@ -38,10 +38,10 @@ Developed responsive frontend components and backend APIs using React.js, Node.j
 
 
  🌱 Currently Learning
-   Advanced React
-   Redux Toolkit
-   Next.js
-   TypeScript
+   Advanced React,
+   Redux Toolkit,
+   Next.js,
+   TypeScript,
    
  👯 I’m looking to collaborate on ...
  🤔 I’m looking an entry level opportunity  Frontend Developer / MERN STACK Developer  role ...
