@@ -11,12 +11,22 @@ I’ve shipped real features, refactored messy codebases, mentored devs, and imp
 JavaScript React Node.js Express MongoDB MySQL Tailwind CSS  HTML Git Vercel
 
 -----------------------------------------------------------------------------------
-🛠️ What I’m Good At
-⚡ Performance optimization 
-🧱 Scalable frontend & backend architecture
-🔌 REST APIs, background jobs 
-🐛 Debugging messy codebases & making them production-ready
-🧠 Learning  + practical engineering trade-offs
+ 🛠️ What I'm Good At
+
+⚡ Building responsive and user-friendly web applications,
+
+🧱 Developing reusable UI components and clean application structures,
+
+🔌 Creating and integrating RESTful APIs for seamless frontend-backend communication,
+
+🐛 Debugging, testing, and improving application performance,
+
+🗄️ Managing databases and implementing authentication with JWT,
+
+📱 Building mobile-friendly and cross-browser compatible interfaces,
+
+🧠 Solving real-world problems through efficient and maintainable code,
+
 -----------------------------------------------------------------------------------
 🚧 Projects
 🔁 E-Commerce Website 
@@ -31,7 +41,7 @@ Developed responsive frontend components and backend APIs using React.js, Node.j
 
 -----------------------------------------------------------------------------------
 🌐 Let’s Connect
-💼 LinkedIn: https://www.linkedin.com/in/shivamsavita/
+💼 LinkedIn: https://www.linkedin.com/in/shivam-savita-004a7225b/
 🐙 GitHub: https://github.com/shivamsavita582
 📧 Email : shivamsavitamahewa7068@gmail.com
 ✨ 🤝
