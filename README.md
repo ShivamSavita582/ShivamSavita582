@@ -7,18 +7,18 @@ I build production-grade web applications with a strong focus on performance, cl
 I’ve shipped real features, refactored messy codebases, mentored devs, and improved products with measurable impact — not just demos.
 
 -----------------------------------------------------------------------------------
-##🧰 Tech Stack & Tools
+🧰 Tech Stack & Tools
 JavaScript React Node.js Express MongoDB MySQL Tailwind CSS  HTML Git Vercel
 
 -----------------------------------------------------------------------------------
-##🛠️ What I’m Good At
+🛠️ What I’m Good At
 ⚡ Performance optimization 
 🧱 Scalable frontend & backend architecture
 🔌 REST APIs, background jobs 
 🐛 Debugging messy codebases & making them production-ready
 🧠 Learning  + practical engineering trade-offs
 -----------------------------------------------------------------------------------
-##🚧 Projects
+🚧 Projects
 🔁 E-Commerce Website 
 Developed a full-stack e-commerce platform with user authentication, 
 product browsing, shopping cart, and order management features.
@@ -30,18 +30,18 @@ Built a grocery web application that allows users to browse products, manage car
 Developed responsive frontend components and backend APIs using React.js, Node.js, Express.js, and MongoDB.
 
 -----------------------------------------------------------------------------------
-##🌐 Let’s Connect
+🌐 Let’s Connect
 💼 LinkedIn: https://www.linkedin.com/in/shivamsavita/
 🐙 GitHub: https://github.com/shivamsavita582
 📧 Email : shivamsavitamahewa7068@gmail.com
 ✨ 🤝
 
 
-## 🌱 Currently Learning
+ 🌱 Currently Learning
    Advanced React
    Redux Toolkit
    Next.js
    TypeScript
    
-## 👯 I’m looking to collaborate on ...
-## 🤔 I’m looking an entry level opportunity  Frontend Developer / MERN STACK Developer  role ...
+ 👯 I’m looking to collaborate on ...
+ 🤔 I’m looking an entry level opportunity  Frontend Developer / MERN STACK Developer  role ...
